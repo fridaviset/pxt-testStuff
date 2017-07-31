@@ -1,4 +1,4 @@
-{
+{pxt buil
     "name": "testStuff",
     "version": "0.0.1",
     "description": "",
@@ -10,7 +10,6 @@
     "files": [
         "README.md",
         "main.ts",
-        "extension.cpp",
         "extension.ts",
         "shims.d.ts",
         "enums.d.ts"
@@ -20,3 +19,4 @@
     ],
     "public": false
 }
+
