@@ -1,1 +1,13 @@
-# pxt-testStuff
+# testStuff
+
+
+
+## License
+
+MIT
+
+## Supported targets
+
+* for PXT/microbit
+(The metadata above is needed for package search.)
+
